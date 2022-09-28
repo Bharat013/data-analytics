@@ -1,2 +1,2 @@
-# data-analytics
+# python data analytics projects
 kaggle projects
